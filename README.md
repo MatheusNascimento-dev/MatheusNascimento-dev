@@ -1,7 +1,9 @@
 ## Sobre Mim
-Olá! Meu nome é Matheus Nascimento, sou um estudante apaixonado por tecnologia. Estou sempre buscando novos desafios e formas de aplicar minhas habilidades. Por isso, faço cursos e bootcamps de programação para me atualizar e aperfeiçoar as minhas competências.
+Olá! Meu nome é Matheus Nascimento, sou um estudante apaixonado por tecnologia. Estou fazendo um curso técnico em TI. Estou sempre buscando novos desafios e formas de aplicar minhas habilidades. Por isso, faço cursos e bootcamps de programação para atualizar e aperfeiçoar as minhas competências.
 
-Como um jovem profissional em constante evolução, estou sempre em busca de novos conhecimentos e tecnologias para aprimorar minhas habilidades e me destacar no mercado de trabalho.
+Tenho conhecimentos em Redes de computadores, segurança cibernética, montagem e manutenção de micro, conhecimentos em sistemas e softwares em geral, conhecimentos em administração de servidores,familiaridade com sistemas operacionais, como Windows e Linux e demais outras qualificações e habilidades.
+
+Como um jovem profissional em constante evolução, sempre busco aprender e me atualizar sobre as últimas tendências tecnológicas. Estou sempre em busca de novos conhecimentos e tecnologias para aprimorar minhas habilidades e me destacar no mercado de trabalho.
 
 <hr>
 <br>
@@ -35,3 +37,4 @@ Como um jovem profissional em constante evolução, estou sempre em busca de nov
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m4theeus._/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/M4theeus2)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mh2502154@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]( https://t.me/MatheeusNascimento)
